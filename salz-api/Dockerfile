@@ -1,4 +1,4 @@
-from python:3.7
+from python:3.8
 
 COPY Pipfile  /
 RUN pip install pipenv

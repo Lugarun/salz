@@ -318,19 +318,10 @@ def getturns(start, end):
     turns = []
 
     for turnid in range(start, end+1):
-        # get players
         turn = select(t for t in Moves if t.turnid == turnid)[:]
-        players = {}
-        # players as dict for "quick and/or easy construction"
-        # converted to proper list format after.
-        # fuck this db schema. I hate that I was dumb enough to think of this.
-        for t in turn:
-            pid = t.playerid
-            move = {'x': t.x, 'y': t.y}
-            players[pid] = players[pid] + [move] if pid in players else [move]
+        moves = [{'playerid': t.playerid, 'x': t.x, 'y': t.y} for t in turn]
 
-        playerlist = [{'playerid': k, 'moves' : v} for k,v in players.items()]
-        turns.append({'turnid': turnid, 'players': playerlist})
+        turns.append({'turnid': turnid, 'moves': moves})
 
     return turns
 
