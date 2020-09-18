@@ -1,0 +1,4027 @@
+[
+  {
+    "turnid": 0,
+    "moves": [
+      {
+        "x": 53,
+        "y": 80,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": 80,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 80,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": 82,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 1,
+    "moves": [
+      {
+        "x": 54,
+        "y": 79,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 79,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 81,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 2,
+    "moves": [
+      {
+        "x": 54,
+        "y": 80,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 80,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 82,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 3,
+    "moves": [
+      {
+        "x": 54,
+        "y": 81,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 81,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 83,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 4,
+    "moves": [
+      {
+        "x": 54,
+        "y": 82,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 82,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 84,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 5,
+    "moves": [
+      {
+        "x": 54,
+        "y": 83,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 83,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 85,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 6,
+    "moves": [
+      {
+        "x": 54,
+        "y": 84,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 84,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 86,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 7,
+    "moves": [
+      {
+        "x": 54,
+        "y": 85,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 85,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 87,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 8,
+    "moves": [
+      {
+        "x": 54,
+        "y": 86,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 86,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 88,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 9,
+    "moves": [
+      {
+        "x": 54,
+        "y": 87,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 87,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 89,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 10,
+    "moves": [
+      {
+        "x": 54,
+        "y": 88,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 88,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 90,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 11,
+    "moves": [
+      {
+        "x": 54,
+        "y": 89,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 89,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 91,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 12,
+    "moves": [
+      {
+        "x": 54,
+        "y": 90,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 90,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 92,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 13,
+    "moves": [
+      {
+        "x": 54,
+        "y": 91,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 91,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 93,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 14,
+    "moves": [
+      {
+        "x": 54,
+        "y": 92,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 92,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 94,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 15,
+    "moves": [
+      {
+        "x": 54,
+        "y": 93,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 93,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 95,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 16,
+    "moves": [
+      {
+        "x": 54,
+        "y": 94,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 94,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 96,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 17,
+    "moves": [
+      {
+        "x": 54,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 97,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 18,
+    "moves": [
+      {
+        "x": 54,
+        "y": 96,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 96,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 98,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 19,
+    "moves": [
+      {
+        "x": 54,
+        "y": 97,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 97,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 99,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 20,
+    "moves": [
+      {
+        "x": 54,
+        "y": 98,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 98,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 100,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 21,
+    "moves": [
+      {
+        "x": 54,
+        "y": -1,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": -1,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 1,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 22,
+    "moves": [
+      {
+        "x": 54,
+        "y": 0,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 0,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 2,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 23,
+    "moves": [
+      {
+        "x": 54,
+        "y": 1,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 1,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 3,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 24,
+    "moves": [
+      {
+        "x": 54,
+        "y": 2,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 2,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 4,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 25,
+    "moves": [
+      {
+        "x": 54,
+        "y": 3,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 3,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 5,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 26,
+    "moves": [
+      {
+        "x": 54,
+        "y": 4,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 4,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 6,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 27,
+    "moves": [
+      {
+        "x": 54,
+        "y": 5,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 5,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 7,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 28,
+    "moves": [
+      {
+        "x": 54,
+        "y": 6,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 6,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 8,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 29,
+    "moves": [
+      {
+        "x": 54,
+        "y": 7,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 7,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 9,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 30,
+    "moves": [
+      {
+        "x": 54,
+        "y": 8,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 8,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 10,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 31,
+    "moves": [
+      {
+        "x": 54,
+        "y": 9,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 9,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 11,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 32,
+    "moves": [
+      {
+        "x": 54,
+        "y": 10,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 10,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 12,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 33,
+    "moves": [
+      {
+        "x": 54,
+        "y": 11,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 11,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 13,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 34,
+    "moves": [
+      {
+        "x": 54,
+        "y": 12,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 12,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 14,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 35,
+    "moves": [
+      {
+        "x": 54,
+        "y": 13,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 13,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 15,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 36,
+    "moves": [
+      {
+        "x": 54,
+        "y": 14,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 14,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 16,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 37,
+    "moves": [
+      {
+        "x": 54,
+        "y": 15,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 15,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 17,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 38,
+    "moves": [
+      {
+        "x": 54,
+        "y": 16,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 16,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 18,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 39,
+    "moves": [
+      {
+        "x": 54,
+        "y": 17,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 17,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 19,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 40,
+    "moves": [
+      {
+        "x": 54,
+        "y": 18,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 18,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 20,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 41,
+    "moves": [
+      {
+        "x": 54,
+        "y": 19,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 19,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 21,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 42,
+    "moves": [
+      {
+        "x": 54,
+        "y": 20,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 20,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 22,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 43,
+    "moves": [
+      {
+        "x": 54,
+        "y": 21,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 21,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 23,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 44,
+    "moves": [
+      {
+        "x": 54,
+        "y": 22,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 22,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 24,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 45,
+    "moves": [
+      {
+        "x": 54,
+        "y": 23,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 23,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 25,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 46,
+    "moves": [
+      {
+        "x": 54,
+        "y": 24,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 24,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 26,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 47,
+    "moves": [
+      {
+        "x": 54,
+        "y": 25,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 25,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 27,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 48,
+    "moves": [
+      {
+        "x": 54,
+        "y": 26,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 26,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 28,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 49,
+    "moves": [
+      {
+        "x": 54,
+        "y": 27,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 27,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 29,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 50,
+    "moves": [
+      {
+        "x": 54,
+        "y": 28,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 28,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 30,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 51,
+    "moves": [
+      {
+        "x": 54,
+        "y": 29,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 29,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 31,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 52,
+    "moves": [
+      {
+        "x": 54,
+        "y": 30,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 30,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 32,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 53,
+    "moves": [
+      {
+        "x": 54,
+        "y": 31,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 31,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 33,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 54,
+    "moves": [
+      {
+        "x": 54,
+        "y": 32,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 32,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 34,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 55,
+    "moves": [
+      {
+        "x": 54,
+        "y": 33,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 33,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 35,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 56,
+    "moves": [
+      {
+        "x": 54,
+        "y": 34,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 34,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 36,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 57,
+    "moves": [
+      {
+        "x": 54,
+        "y": 35,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 35,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 37,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 58,
+    "moves": [
+      {
+        "x": 54,
+        "y": 36,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 36,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 38,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 59,
+    "moves": [
+      {
+        "x": 54,
+        "y": 37,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 37,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 39,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 60,
+    "moves": [
+      {
+        "x": 54,
+        "y": 38,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 38,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 40,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 61,
+    "moves": [
+      {
+        "x": 54,
+        "y": 39,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 39,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 41,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 62,
+    "moves": [
+      {
+        "x": 54,
+        "y": 40,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 40,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 42,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 63,
+    "moves": [
+      {
+        "x": 54,
+        "y": 41,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 41,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 43,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 64,
+    "moves": [
+      {
+        "x": 54,
+        "y": 42,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 42,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 44,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 65,
+    "moves": [
+      {
+        "x": 54,
+        "y": 43,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 43,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 45,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 66,
+    "moves": [
+      {
+        "x": 54,
+        "y": 44,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 44,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 46,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 67,
+    "moves": [
+      {
+        "x": 54,
+        "y": 45,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 45,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 47,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 68,
+    "moves": [
+      {
+        "x": 54,
+        "y": 46,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 46,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 48,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 69,
+    "moves": [
+      {
+        "x": 54,
+        "y": 47,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 47,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 49,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 70,
+    "moves": [
+      {
+        "x": 54,
+        "y": 48,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 48,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 50,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 71,
+    "moves": [
+      {
+        "x": 54,
+        "y": 49,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 49,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 51,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 72,
+    "moves": [
+      {
+        "x": 54,
+        "y": 50,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 50,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 52,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 73,
+    "moves": [
+      {
+        "x": 54,
+        "y": 51,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 51,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 53,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 74,
+    "moves": [
+      {
+        "x": 54,
+        "y": 52,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 52,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 54,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 75,
+    "moves": [
+      {
+        "x": 54,
+        "y": 53,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 53,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 55,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 76,
+    "moves": [
+      {
+        "x": 54,
+        "y": 54,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 54,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 56,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 77,
+    "moves": [
+      {
+        "x": 54,
+        "y": 55,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 55,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 57,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 78,
+    "moves": [
+      {
+        "x": 54,
+        "y": 56,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 56,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 58,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 79,
+    "moves": [
+      {
+        "x": 54,
+        "y": 57,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 57,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 59,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 80,
+    "moves": [
+      {
+        "x": 54,
+        "y": 58,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 58,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 60,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 81,
+    "moves": [
+      {
+        "x": 54,
+        "y": 59,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 59,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 61,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 82,
+    "moves": [
+      {
+        "x": 54,
+        "y": 60,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 60,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 62,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 83,
+    "moves": [
+      {
+        "x": 54,
+        "y": 61,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 61,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 63,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 84,
+    "moves": [
+      {
+        "x": 54,
+        "y": 62,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 62,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 64,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 85,
+    "moves": [
+      {
+        "x": 54,
+        "y": 63,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 63,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 65,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 86,
+    "moves": [
+      {
+        "x": 54,
+        "y": 64,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 64,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 66,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 87,
+    "moves": [
+      {
+        "x": 54,
+        "y": 65,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 65,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 67,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 88,
+    "moves": [
+      {
+        "x": 54,
+        "y": 66,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 66,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 68,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 89,
+    "moves": [
+      {
+        "x": 54,
+        "y": 67,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 67,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 69,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 90,
+    "moves": [
+      {
+        "x": 54,
+        "y": 68,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 68,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 70,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 91,
+    "moves": [
+      {
+        "x": 55,
+        "y": 67,
+        "playerid": 1
+      },
+      {
+        "x": 56,
+        "y": 67,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 69,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 92,
+    "moves": [
+      {
+        "x": 56,
+        "y": 66,
+        "playerid": 1
+      },
+      {
+        "x": 57,
+        "y": 66,
+        "playerid": 1
+      },
+      {
+        "x": 56,
+        "y": 68,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 93,
+    "moves": [
+      {
+        "x": 56,
+        "y": 67,
+        "playerid": 1
+      },
+      {
+        "x": 57,
+        "y": 67,
+        "playerid": 1
+      },
+      {
+        "x": 56,
+        "y": 69,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 94,
+    "moves": [
+      {
+        "x": 56,
+        "y": 65,
+        "playerid": 1
+      },
+      {
+        "x": 57,
+        "y": 65,
+        "playerid": 1
+      },
+      {
+        "x": 56,
+        "y": 67,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 95,
+    "moves": [
+      {
+        "x": 51,
+        "y": 96,
+        "playerid": 1
+      },
+      {
+        "x": 52,
+        "y": 96,
+        "playerid": 1
+      },
+      {
+        "x": 51,
+        "y": 98,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 96,
+    "moves": [
+      {
+        "x": 52,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 52,
+        "y": 97,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 97,
+    "moves": [
+      {
+        "x": 53,
+        "y": 94,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 94,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": 96,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 98,
+    "moves": [
+      {
+        "x": 53,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": 97,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 99,
+    "moves": [
+      {
+        "x": 53,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": 97,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 100,
+    "moves": [
+      {
+        "x": 52,
+        "y": -1,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": -1,
+        "playerid": 1
+      },
+      {
+        "x": 52,
+        "y": 1,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 101,
+    "moves": [
+      {
+        "x": 57,
+        "y": 0,
+        "playerid": 1
+      },
+      {
+        "x": 58,
+        "y": 0,
+        "playerid": 1
+      },
+      {
+        "x": 57,
+        "y": 2,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 102,
+    "moves": [
+      {
+        "x": 58,
+        "y": -1,
+        "playerid": 1
+      },
+      {
+        "x": 59,
+        "y": -1,
+        "playerid": 1
+      },
+      {
+        "x": 58,
+        "y": 1,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 103,
+    "moves": [
+      {
+        "x": 59,
+        "y": 98,
+        "playerid": 1
+      },
+      {
+        "x": 60,
+        "y": 98,
+        "playerid": 1
+      },
+      {
+        "x": 59,
+        "y": 100,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 104,
+    "moves": [
+      {
+        "x": 60,
+        "y": 97,
+        "playerid": 1
+      },
+      {
+        "x": 61,
+        "y": 97,
+        "playerid": 1
+      },
+      {
+        "x": 60,
+        "y": 99,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 105,
+    "moves": [
+      {
+        "x": 61,
+        "y": 96,
+        "playerid": 1
+      },
+      {
+        "x": 62,
+        "y": 96,
+        "playerid": 1
+      },
+      {
+        "x": 61,
+        "y": 98,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 106,
+    "moves": [
+      {
+        "x": 62,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 63,
+        "y": 95,
+        "playerid": 1
+      },
+      {
+        "x": 62,
+        "y": 97,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 107,
+    "moves": [
+      {
+        "x": 63,
+        "y": 94,
+        "playerid": 1
+      },
+      {
+        "x": 64,
+        "y": 94,
+        "playerid": 1
+      },
+      {
+        "x": 63,
+        "y": 96,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 108,
+    "moves": [
+      {
+        "x": 64,
+        "y": 93,
+        "playerid": 1
+      },
+      {
+        "x": 65,
+        "y": 93,
+        "playerid": 1
+      },
+      {
+        "x": 64,
+        "y": 95,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 109,
+    "moves": [
+      {
+        "x": 65,
+        "y": 92,
+        "playerid": 1
+      },
+      {
+        "x": 66,
+        "y": 92,
+        "playerid": 1
+      },
+      {
+        "x": 65,
+        "y": 94,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 110,
+    "moves": [
+      {
+        "x": 66,
+        "y": 91,
+        "playerid": 1
+      },
+      {
+        "x": 67,
+        "y": 91,
+        "playerid": 1
+      },
+      {
+        "x": 66,
+        "y": 93,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 111,
+    "moves": [
+      {
+        "x": 67,
+        "y": 90,
+        "playerid": 1
+      },
+      {
+        "x": 68,
+        "y": 90,
+        "playerid": 1
+      },
+      {
+        "x": 67,
+        "y": 92,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 112,
+    "moves": [
+      {
+        "x": 68,
+        "y": 89,
+        "playerid": 1
+      },
+      {
+        "x": 69,
+        "y": 89,
+        "playerid": 1
+      },
+      {
+        "x": 68,
+        "y": 91,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 113,
+    "moves": [
+      {
+        "x": 69,
+        "y": 88,
+        "playerid": 1
+      },
+      {
+        "x": 70,
+        "y": 88,
+        "playerid": 1
+      },
+      {
+        "x": 69,
+        "y": 90,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 114,
+    "moves": [
+      {
+        "x": 70,
+        "y": 87,
+        "playerid": 1
+      },
+      {
+        "x": 71,
+        "y": 87,
+        "playerid": 1
+      },
+      {
+        "x": 70,
+        "y": 89,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 115,
+    "moves": [
+      {
+        "x": 71,
+        "y": 86,
+        "playerid": 1
+      },
+      {
+        "x": 72,
+        "y": 86,
+        "playerid": 1
+      },
+      {
+        "x": 71,
+        "y": 88,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 116,
+    "moves": [
+      {
+        "x": 72,
+        "y": 85,
+        "playerid": 1
+      },
+      {
+        "x": 73,
+        "y": 85,
+        "playerid": 1
+      },
+      {
+        "x": 72,
+        "y": 87,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 117,
+    "moves": [
+      {
+        "x": 73,
+        "y": 84,
+        "playerid": 1
+      },
+      {
+        "x": 74,
+        "y": 84,
+        "playerid": 1
+      },
+      {
+        "x": 73,
+        "y": 86,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 118,
+    "moves": [
+      {
+        "x": 74,
+        "y": 83,
+        "playerid": 1
+      },
+      {
+        "x": 75,
+        "y": 83,
+        "playerid": 1
+      },
+      {
+        "x": 74,
+        "y": 85,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 119,
+    "moves": [
+      {
+        "x": 75,
+        "y": 82,
+        "playerid": 1
+      },
+      {
+        "x": 76,
+        "y": 82,
+        "playerid": 1
+      },
+      {
+        "x": 75,
+        "y": 84,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 120,
+    "moves": [
+      {
+        "x": 76,
+        "y": 81,
+        "playerid": 1
+      },
+      {
+        "x": 77,
+        "y": 81,
+        "playerid": 1
+      },
+      {
+        "x": 76,
+        "y": 83,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 121,
+    "moves": [
+      {
+        "x": 77,
+        "y": 80,
+        "playerid": 1
+      },
+      {
+        "x": 78,
+        "y": 80,
+        "playerid": 1
+      },
+      {
+        "x": 77,
+        "y": 82,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 122,
+    "moves": [
+      {
+        "x": 78,
+        "y": 79,
+        "playerid": 1
+      },
+      {
+        "x": 79,
+        "y": 79,
+        "playerid": 1
+      },
+      {
+        "x": 78,
+        "y": 81,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 123,
+    "moves": [
+      {
+        "x": 79,
+        "y": 78,
+        "playerid": 1
+      },
+      {
+        "x": 80,
+        "y": 78,
+        "playerid": 1
+      },
+      {
+        "x": 79,
+        "y": 80,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 124,
+    "moves": [
+      {
+        "x": 80,
+        "y": 77,
+        "playerid": 1
+      },
+      {
+        "x": 81,
+        "y": 77,
+        "playerid": 1
+      },
+      {
+        "x": 80,
+        "y": 79,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 125,
+    "moves": [
+      {
+        "x": 81,
+        "y": 76,
+        "playerid": 1
+      },
+      {
+        "x": 82,
+        "y": 76,
+        "playerid": 1
+      },
+      {
+        "x": 81,
+        "y": 78,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 126,
+    "moves": [
+      {
+        "x": 82,
+        "y": 75,
+        "playerid": 1
+      },
+      {
+        "x": 83,
+        "y": 75,
+        "playerid": 1
+      },
+      {
+        "x": 82,
+        "y": 77,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 127,
+    "moves": [
+      {
+        "x": 83,
+        "y": 74,
+        "playerid": 1
+      },
+      {
+        "x": 84,
+        "y": 74,
+        "playerid": 1
+      },
+      {
+        "x": 83,
+        "y": 76,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 128,
+    "moves": [
+      {
+        "x": 84,
+        "y": 73,
+        "playerid": 1
+      },
+      {
+        "x": 85,
+        "y": 73,
+        "playerid": 1
+      },
+      {
+        "x": 84,
+        "y": 75,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 129,
+    "moves": [
+      {
+        "x": 85,
+        "y": 72,
+        "playerid": 1
+      },
+      {
+        "x": 86,
+        "y": 72,
+        "playerid": 1
+      },
+      {
+        "x": 85,
+        "y": 74,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 130,
+    "moves": [
+      {
+        "x": 86,
+        "y": 71,
+        "playerid": 1
+      },
+      {
+        "x": 87,
+        "y": 71,
+        "playerid": 1
+      },
+      {
+        "x": 86,
+        "y": 73,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 131,
+    "moves": [
+      {
+        "x": 87,
+        "y": 70,
+        "playerid": 1
+      },
+      {
+        "x": 88,
+        "y": 70,
+        "playerid": 1
+      },
+      {
+        "x": 87,
+        "y": 72,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 132,
+    "moves": [
+      {
+        "x": 88,
+        "y": 69,
+        "playerid": 1
+      },
+      {
+        "x": 89,
+        "y": 69,
+        "playerid": 1
+      },
+      {
+        "x": 88,
+        "y": 71,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 133,
+    "moves": [
+      {
+        "x": 89,
+        "y": 68,
+        "playerid": 1
+      },
+      {
+        "x": 90,
+        "y": 68,
+        "playerid": 1
+      },
+      {
+        "x": 89,
+        "y": 70,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 134,
+    "moves": [
+      {
+        "x": 90,
+        "y": 67,
+        "playerid": 1
+      },
+      {
+        "x": 91,
+        "y": 67,
+        "playerid": 1
+      },
+      {
+        "x": 90,
+        "y": 69,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 135,
+    "moves": [
+      {
+        "x": 91,
+        "y": 66,
+        "playerid": 1
+      },
+      {
+        "x": 92,
+        "y": 66,
+        "playerid": 1
+      },
+      {
+        "x": 91,
+        "y": 68,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 136,
+    "moves": [
+      {
+        "x": 92,
+        "y": 65,
+        "playerid": 1
+      },
+      {
+        "x": 93,
+        "y": 65,
+        "playerid": 1
+      },
+      {
+        "x": 92,
+        "y": 67,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 137,
+    "moves": [
+      {
+        "x": 93,
+        "y": 64,
+        "playerid": 1
+      },
+      {
+        "x": 94,
+        "y": 64,
+        "playerid": 1
+      },
+      {
+        "x": 93,
+        "y": 66,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 138,
+    "moves": [
+      {
+        "x": 94,
+        "y": 63,
+        "playerid": 1
+      },
+      {
+        "x": 95,
+        "y": 63,
+        "playerid": 1
+      },
+      {
+        "x": 94,
+        "y": 65,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 139,
+    "moves": [
+      {
+        "x": 95,
+        "y": 62,
+        "playerid": 1
+      },
+      {
+        "x": 96,
+        "y": 62,
+        "playerid": 1
+      },
+      {
+        "x": 95,
+        "y": 64,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 140,
+    "moves": [
+      {
+        "x": 96,
+        "y": 61,
+        "playerid": 1
+      },
+      {
+        "x": 97,
+        "y": 61,
+        "playerid": 1
+      },
+      {
+        "x": 96,
+        "y": 63,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 141,
+    "moves": [
+      {
+        "x": 97,
+        "y": 60,
+        "playerid": 1
+      },
+      {
+        "x": 98,
+        "y": 60,
+        "playerid": 1
+      },
+      {
+        "x": 97,
+        "y": 62,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 142,
+    "moves": [
+      {
+        "x": 98,
+        "y": 59,
+        "playerid": 1
+      },
+      {
+        "x": 99,
+        "y": 59,
+        "playerid": 1
+      },
+      {
+        "x": 98,
+        "y": 61,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 143,
+    "moves": [
+      {
+        "x": 99,
+        "y": 58,
+        "playerid": 1
+      },
+      {
+        "x": 100,
+        "y": 58,
+        "playerid": 1
+      },
+      {
+        "x": 99,
+        "y": 60,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 144,
+    "moves": [
+      {
+        "x": 0,
+        "y": 57,
+        "playerid": 1
+      },
+      {
+        "x": 1,
+        "y": 57,
+        "playerid": 1
+      },
+      {
+        "x": 0,
+        "y": 59,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 145,
+    "moves": [
+      {
+        "x": 1,
+        "y": 56,
+        "playerid": 1
+      },
+      {
+        "x": 2,
+        "y": 56,
+        "playerid": 1
+      },
+      {
+        "x": 1,
+        "y": 58,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 146,
+    "moves": [
+      {
+        "x": 2,
+        "y": 55,
+        "playerid": 1
+      },
+      {
+        "x": 3,
+        "y": 55,
+        "playerid": 1
+      },
+      {
+        "x": 2,
+        "y": 57,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 147,
+    "moves": [
+      {
+        "x": 3,
+        "y": 54,
+        "playerid": 1
+      },
+      {
+        "x": 4,
+        "y": 54,
+        "playerid": 1
+      },
+      {
+        "x": 3,
+        "y": 56,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 148,
+    "moves": [
+      {
+        "x": 4,
+        "y": 53,
+        "playerid": 1
+      },
+      {
+        "x": 5,
+        "y": 53,
+        "playerid": 1
+      },
+      {
+        "x": 4,
+        "y": 55,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 149,
+    "moves": [
+      {
+        "x": 5,
+        "y": 52,
+        "playerid": 1
+      },
+      {
+        "x": 6,
+        "y": 52,
+        "playerid": 1
+      },
+      {
+        "x": 5,
+        "y": 54,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 150,
+    "moves": [
+      {
+        "x": 6,
+        "y": 51,
+        "playerid": 1
+      },
+      {
+        "x": 7,
+        "y": 51,
+        "playerid": 1
+      },
+      {
+        "x": 6,
+        "y": 53,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 151,
+    "moves": [
+      {
+        "x": 7,
+        "y": 50,
+        "playerid": 1
+      },
+      {
+        "x": 8,
+        "y": 50,
+        "playerid": 1
+      },
+      {
+        "x": 7,
+        "y": 52,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 152,
+    "moves": [
+      {
+        "x": 8,
+        "y": 49,
+        "playerid": 1
+      },
+      {
+        "x": 9,
+        "y": 49,
+        "playerid": 1
+      },
+      {
+        "x": 8,
+        "y": 51,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 153,
+    "moves": [
+      {
+        "x": 9,
+        "y": 48,
+        "playerid": 1
+      },
+      {
+        "x": 10,
+        "y": 48,
+        "playerid": 1
+      },
+      {
+        "x": 9,
+        "y": 50,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 154,
+    "moves": [
+      {
+        "x": 10,
+        "y": 47,
+        "playerid": 1
+      },
+      {
+        "x": 11,
+        "y": 47,
+        "playerid": 1
+      },
+      {
+        "x": 10,
+        "y": 49,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 155,
+    "moves": [
+      {
+        "x": 11,
+        "y": 46,
+        "playerid": 1
+      },
+      {
+        "x": 12,
+        "y": 46,
+        "playerid": 1
+      },
+      {
+        "x": 11,
+        "y": 48,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 156,
+    "moves": [
+      {
+        "x": 12,
+        "y": 45,
+        "playerid": 1
+      },
+      {
+        "x": 13,
+        "y": 45,
+        "playerid": 1
+      },
+      {
+        "x": 12,
+        "y": 47,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 157,
+    "moves": [
+      {
+        "x": 13,
+        "y": 44,
+        "playerid": 1
+      },
+      {
+        "x": 14,
+        "y": 44,
+        "playerid": 1
+      },
+      {
+        "x": 13,
+        "y": 46,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 158,
+    "moves": [
+      {
+        "x": 14,
+        "y": 43,
+        "playerid": 1
+      },
+      {
+        "x": 15,
+        "y": 43,
+        "playerid": 1
+      },
+      {
+        "x": 14,
+        "y": 45,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 159,
+    "moves": [
+      {
+        "x": 15,
+        "y": 42,
+        "playerid": 1
+      },
+      {
+        "x": 16,
+        "y": 42,
+        "playerid": 1
+      },
+      {
+        "x": 15,
+        "y": 44,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 160,
+    "moves": [
+      {
+        "x": 16,
+        "y": 41,
+        "playerid": 1
+      },
+      {
+        "x": 17,
+        "y": 41,
+        "playerid": 1
+      },
+      {
+        "x": 16,
+        "y": 43,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 161,
+    "moves": [
+      {
+        "x": 17,
+        "y": 40,
+        "playerid": 1
+      },
+      {
+        "x": 18,
+        "y": 40,
+        "playerid": 1
+      },
+      {
+        "x": 17,
+        "y": 42,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 162,
+    "moves": [
+      {
+        "x": 18,
+        "y": 39,
+        "playerid": 1
+      },
+      {
+        "x": 19,
+        "y": 39,
+        "playerid": 1
+      },
+      {
+        "x": 18,
+        "y": 41,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 163,
+    "moves": [
+      {
+        "x": 19,
+        "y": 38,
+        "playerid": 1
+      },
+      {
+        "x": 20,
+        "y": 38,
+        "playerid": 1
+      },
+      {
+        "x": 19,
+        "y": 40,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 164,
+    "moves": [
+      {
+        "x": 20,
+        "y": 37,
+        "playerid": 1
+      },
+      {
+        "x": 21,
+        "y": 37,
+        "playerid": 1
+      },
+      {
+        "x": 20,
+        "y": 39,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 165,
+    "moves": [
+      {
+        "x": 21,
+        "y": 36,
+        "playerid": 1
+      },
+      {
+        "x": 22,
+        "y": 36,
+        "playerid": 1
+      },
+      {
+        "x": 21,
+        "y": 38,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 166,
+    "moves": [
+      {
+        "x": 22,
+        "y": 35,
+        "playerid": 1
+      },
+      {
+        "x": 23,
+        "y": 35,
+        "playerid": 1
+      },
+      {
+        "x": 22,
+        "y": 37,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 167,
+    "moves": [
+      {
+        "x": 23,
+        "y": 34,
+        "playerid": 1
+      },
+      {
+        "x": 24,
+        "y": 34,
+        "playerid": 1
+      },
+      {
+        "x": 23,
+        "y": 36,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 168,
+    "moves": [
+      {
+        "x": 24,
+        "y": 33,
+        "playerid": 1
+      },
+      {
+        "x": 25,
+        "y": 33,
+        "playerid": 1
+      },
+      {
+        "x": 24,
+        "y": 35,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 169,
+    "moves": [
+      {
+        "x": 25,
+        "y": 32,
+        "playerid": 1
+      },
+      {
+        "x": 26,
+        "y": 32,
+        "playerid": 1
+      },
+      {
+        "x": 25,
+        "y": 34,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 170,
+    "moves": [
+      {
+        "x": 26,
+        "y": 31,
+        "playerid": 1
+      },
+      {
+        "x": 27,
+        "y": 31,
+        "playerid": 1
+      },
+      {
+        "x": 26,
+        "y": 33,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 171,
+    "moves": [
+      {
+        "x": 27,
+        "y": 30,
+        "playerid": 1
+      },
+      {
+        "x": 28,
+        "y": 30,
+        "playerid": 1
+      },
+      {
+        "x": 27,
+        "y": 32,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 172,
+    "moves": [
+      {
+        "x": 28,
+        "y": 29,
+        "playerid": 1
+      },
+      {
+        "x": 29,
+        "y": 29,
+        "playerid": 1
+      },
+      {
+        "x": 28,
+        "y": 31,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 173,
+    "moves": [
+      {
+        "x": 29,
+        "y": 28,
+        "playerid": 1
+      },
+      {
+        "x": 30,
+        "y": 28,
+        "playerid": 1
+      },
+      {
+        "x": 29,
+        "y": 30,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 174,
+    "moves": [
+      {
+        "x": 30,
+        "y": 27,
+        "playerid": 1
+      },
+      {
+        "x": 31,
+        "y": 27,
+        "playerid": 1
+      },
+      {
+        "x": 30,
+        "y": 29,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 175,
+    "moves": [
+      {
+        "x": 31,
+        "y": 26,
+        "playerid": 1
+      },
+      {
+        "x": 32,
+        "y": 26,
+        "playerid": 1
+      },
+      {
+        "x": 31,
+        "y": 28,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 176,
+    "moves": [
+      {
+        "x": 32,
+        "y": 25,
+        "playerid": 1
+      },
+      {
+        "x": 33,
+        "y": 25,
+        "playerid": 1
+      },
+      {
+        "x": 32,
+        "y": 27,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 177,
+    "moves": [
+      {
+        "x": 33,
+        "y": 24,
+        "playerid": 1
+      },
+      {
+        "x": 34,
+        "y": 24,
+        "playerid": 1
+      },
+      {
+        "x": 33,
+        "y": 26,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 178,
+    "moves": [
+      {
+        "x": 34,
+        "y": 23,
+        "playerid": 1
+      },
+      {
+        "x": 35,
+        "y": 23,
+        "playerid": 1
+      },
+      {
+        "x": 34,
+        "y": 25,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 179,
+    "moves": [
+      {
+        "x": 35,
+        "y": 22,
+        "playerid": 1
+      },
+      {
+        "x": 36,
+        "y": 22,
+        "playerid": 1
+      },
+      {
+        "x": 35,
+        "y": 24,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 180,
+    "moves": [
+      {
+        "x": 36,
+        "y": 21,
+        "playerid": 1
+      },
+      {
+        "x": 37,
+        "y": 21,
+        "playerid": 1
+      },
+      {
+        "x": 36,
+        "y": 23,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 181,
+    "moves": [
+      {
+        "x": 37,
+        "y": 20,
+        "playerid": 1
+      },
+      {
+        "x": 38,
+        "y": 20,
+        "playerid": 1
+      },
+      {
+        "x": 37,
+        "y": 22,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 182,
+    "moves": [
+      {
+        "x": 38,
+        "y": 19,
+        "playerid": 1
+      },
+      {
+        "x": 39,
+        "y": 19,
+        "playerid": 1
+      },
+      {
+        "x": 38,
+        "y": 21,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 183,
+    "moves": [
+      {
+        "x": 39,
+        "y": 18,
+        "playerid": 1
+      },
+      {
+        "x": 40,
+        "y": 18,
+        "playerid": 1
+      },
+      {
+        "x": 39,
+        "y": 20,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 184,
+    "moves": [
+      {
+        "x": 40,
+        "y": 17,
+        "playerid": 1
+      },
+      {
+        "x": 41,
+        "y": 17,
+        "playerid": 1
+      },
+      {
+        "x": 40,
+        "y": 19,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 185,
+    "moves": [
+      {
+        "x": 41,
+        "y": 16,
+        "playerid": 1
+      },
+      {
+        "x": 42,
+        "y": 16,
+        "playerid": 1
+      },
+      {
+        "x": 41,
+        "y": 18,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 186,
+    "moves": [
+      {
+        "x": 42,
+        "y": 15,
+        "playerid": 1
+      },
+      {
+        "x": 43,
+        "y": 15,
+        "playerid": 1
+      },
+      {
+        "x": 42,
+        "y": 17,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 187,
+    "moves": [
+      {
+        "x": 43,
+        "y": 14,
+        "playerid": 1
+      },
+      {
+        "x": 44,
+        "y": 14,
+        "playerid": 1
+      },
+      {
+        "x": 43,
+        "y": 16,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 188,
+    "moves": [
+      {
+        "x": 44,
+        "y": 13,
+        "playerid": 1
+      },
+      {
+        "x": 45,
+        "y": 13,
+        "playerid": 1
+      },
+      {
+        "x": 44,
+        "y": 15,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 189,
+    "moves": [
+      {
+        "x": 45,
+        "y": 12,
+        "playerid": 1
+      },
+      {
+        "x": 46,
+        "y": 12,
+        "playerid": 1
+      },
+      {
+        "x": 45,
+        "y": 14,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 190,
+    "moves": [
+      {
+        "x": 46,
+        "y": 11,
+        "playerid": 1
+      },
+      {
+        "x": 47,
+        "y": 11,
+        "playerid": 1
+      },
+      {
+        "x": 46,
+        "y": 13,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 191,
+    "moves": [
+      {
+        "x": 47,
+        "y": 10,
+        "playerid": 1
+      },
+      {
+        "x": 48,
+        "y": 10,
+        "playerid": 1
+      },
+      {
+        "x": 47,
+        "y": 12,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 192,
+    "moves": [
+      {
+        "x": 48,
+        "y": 9,
+        "playerid": 1
+      },
+      {
+        "x": 49,
+        "y": 9,
+        "playerid": 1
+      },
+      {
+        "x": 48,
+        "y": 11,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 193,
+    "moves": [
+      {
+        "x": 49,
+        "y": 8,
+        "playerid": 1
+      },
+      {
+        "x": 50,
+        "y": 8,
+        "playerid": 1
+      },
+      {
+        "x": 49,
+        "y": 10,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 194,
+    "moves": [
+      {
+        "x": 50,
+        "y": 7,
+        "playerid": 1
+      },
+      {
+        "x": 51,
+        "y": 7,
+        "playerid": 1
+      },
+      {
+        "x": 50,
+        "y": 9,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 195,
+    "moves": [
+      {
+        "x": 51,
+        "y": 6,
+        "playerid": 1
+      },
+      {
+        "x": 52,
+        "y": 6,
+        "playerid": 1
+      },
+      {
+        "x": 51,
+        "y": 8,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 196,
+    "moves": [
+      {
+        "x": 52,
+        "y": 5,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": 5,
+        "playerid": 1
+      },
+      {
+        "x": 52,
+        "y": 7,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 197,
+    "moves": [
+      {
+        "x": 53,
+        "y": 4,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 4,
+        "playerid": 1
+      },
+      {
+        "x": 53,
+        "y": 6,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 198,
+    "moves": [
+      {
+        "x": 54,
+        "y": 3,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 3,
+        "playerid": 1
+      },
+      {
+        "x": 54,
+        "y": 5,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 199,
+    "moves": [
+      {
+        "x": 55,
+        "y": 2,
+        "playerid": 1
+      },
+      {
+        "x": 56,
+        "y": 2,
+        "playerid": 1
+      },
+      {
+        "x": 55,
+        "y": 4,
+        "playerid": 1
+      }
+    ]
+  },
+  {
+    "turnid": 200,
+    "moves": [
+      {
+        "x": 56,
+        "y": 1,
+        "playerid": 1
+      },
+      {
+        "x": 57,
+        "y": 1,
+        "playerid": 1
+      },
+      {
+        "x": 56,
+        "y": 3,
+        "playerid": 1
+      }
+    ]
+  }
+]

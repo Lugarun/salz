@@ -11,8 +11,11 @@
     "generate": "nuxt generate",
     "test": "npm run prettier:check && npm run lint && jest",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "jest": "jest",
+    "jest:watch": "jest --watch",
     "prettier:check": "prettier --check \"./**/*.{js,json,vue,scss,md}\"",
-    "prettier:write": "prettier --write \"./**/*.{js,json,vue,scss,md}\""
+    "prettier:write": "prettier --write \"./**/*.{js,json,vue,scss,md}\"",
+    "lint:fix": "eslint --fix --ext .js,.vue --ignore-path .gitignore ."
   },
   "lint-staged": {
     "*.{js,vue}": "eslint"
@@ -32,6 +35,7 @@
     "pixi.js": "^5.2.1"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@nuxtjs/eslint-config": "^1.0.1",
     "@nuxtjs/eslint-module": "^1.0.0",
     "@vue/test-utils": "^1.0.0-beta.32",
