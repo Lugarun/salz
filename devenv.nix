@@ -3,12 +3,19 @@
 {
   env.GREET = "devenv";
 
+  languages.javascript.enable = true;
+  languages.typescript.enable = true;
+
   packages = [
     pkgs.git
     pkgs.graphviz
     pkgs.devenv
 
     pkgs.age
+
+    pkgs.nodePackages.npm
+    pkgs.nodePackages.typescript-language-server
+    pkgs.nodePackages.svelte-language-server
   ];
 
   services.postgres = {
