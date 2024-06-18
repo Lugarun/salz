@@ -45,7 +45,7 @@ export let headerLevel = '1';
 }
 
 .icon {
-  margin-top: -0.6em;
+  margin-top: -0.5em;
   margin-right: 1rem;
   line-height: 0;
 }
