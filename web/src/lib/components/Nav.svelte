@@ -3,12 +3,13 @@
 	import Icon from '@iconify/svelte';
 
 	import NavLink from '$lib/components/NavLink.svelte';
+	import Logo from './Logo.svelte';
 </script>
 
 <nav>
 	<div class="left">
 		<ul>
-			<NavLink href="/"><Icon icon="tabler:assembly" /></NavLink>
+			<NavLink href="/"><Logo /></NavLink>
 		</ul>
 	</div>
 	<div class="right">
@@ -25,6 +26,7 @@
 			{#if $isLoggedIn}
 				<NavLink href="/me"><Icon icon="tabler:user" /></NavLink>
 				<NavLink href="/me/upload_bot"><Icon icon="tabler:hexagon-plus" /></NavLink>
+				<NavLink href="/logout"><Icon icon="tabler:logout" /></NavLink>
 			{/if}
 		</ul>
 	</div>

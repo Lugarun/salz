@@ -1,18 +1,22 @@
 <script lang="ts">
 	import NavLink from '$lib/components/NavLink.svelte';
 	import FancyHeader from '$lib/components/FancyHeader.svelte';
+	import Logo from '$lib/components/Logo.svelte';
 	import Icon from '@iconify/svelte';
 	import { isLoggedIn } from '$lib/stores/user';
 
-  let leaders: { username: string; score: number }[] = [
-    { username: "John Smith", score: 1234 },
-    { username: "Adam Scott", score: 1233 },
-    { username: "Bill Willy", score: 1232 },
-  ];
+	let leaders: { username: string; score: number }[] = [
+		{ username: 'John Smith', score: 1234 },
+		{ username: 'Adam Scott', score: 1233 },
+		{ username: 'Bill Willy', score: 1232 }
+	];
 </script>
 
 <div class="content-container">
 	<main>
+		<figure class="logo-container">
+			<Logo />
+		</figure>
 		<h1>salz</h1>
 		<h2>A bot programming game</h2>
 
@@ -63,6 +67,21 @@
 		position: relative;
 	}
 
+	main .logo-container {
+		--slant-px: 30px;
+		padding: 0.7em 2.3em 0.2em 2em;
+		position: absolute;
+		top: -3em;
+		left: 50%;
+		transform: translateX(-50%);
+		background: lightgray;
+		clip-path: polygon(var(--slant-px) 0, 100% 0, calc(100% - var(--slant-px)) 100%, 0 100%);
+	}
+
+	main .logo-container :global(.logo) {
+		width: 4em;
+	}
+
 	main menu {
 		padding: 0;
 		list-style: none;
@@ -91,5 +110,22 @@
 		margin-top: 1em;
 		list-style: none;
 		padding-left: 1.5em;
+	}
+
+	@media screen and (max-width: 767px) {
+		.content-container {
+			display: initial;
+			padding: 1em 2em;
+		}
+
+		main {
+			width: 80vw;
+			max-width: initial;
+			margin: 0 auto;
+		}
+
+		main menu :global(li a:link) {
+			width: 90%;
+		}
 	}
 </style>
