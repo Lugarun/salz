@@ -1,4 +1,4 @@
-import storage from '$lib/store';
+import { localWritable } from '$lib/store';
 import { derived } from 'svelte/store';
 
 export interface UserStore {
@@ -6,6 +6,8 @@ export interface UserStore {
 	accessToken: string;
 }
 
-export const userStore = storage<UserStore | null>('userStore', { username: '', accessToken: '' });
+export const initialValue = { username: '', accessToken: '' };
+
+export const userStore = localWritable('userStore')<UserStore>(initialValue);
 
 export const isLoggedIn = derived(userStore, ($userStore) => Boolean($userStore?.accessToken));
