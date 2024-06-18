@@ -1,9 +1,8 @@
 <script lang="ts">
-	import { userStore } from '$lib/stores/user';
+	import { isLoggedIn } from '$lib/stores/user';
 	import Icon from '@iconify/svelte';
 
 	import NavLink from '$lib/components/NavLink.svelte';
-	$: isLoggedIn = Object.hasOwn(userStore, 'accessToken');
 </script>
 
 <nav>
@@ -20,10 +19,10 @@
 		</ul>
 
 		<ul>
-			{#if !isLoggedIn}
+			{#if !$isLoggedIn}
 				<NavLink href="/login"><Icon icon="tabler:login" /></NavLink>
 			{/if}
-			{#if isLoggedIn}
+			{#if $isLoggedIn}
 				<NavLink href="/me"><Icon icon="tabler:user" /></NavLink>
 				<NavLink href="/me/upload_bot"><Icon icon="tabler:hexagon-plus" /></NavLink>
 			{/if}

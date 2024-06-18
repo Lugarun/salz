@@ -2,9 +2,7 @@
 	import NavLink from '$lib/components/NavLink.svelte';
 	import FancyHeader from '$lib/components/FancyHeader.svelte';
 	import Icon from '@iconify/svelte';
-	import { userStore } from '$lib/stores/user';
-
-	$: isLoggedIn = Object.hasOwn(userStore, 'accessToken');
+	import { isLoggedIn } from '$lib/stores/user';
 
   let leaders: { username: string; score: number }[] = [
     { username: "John Smith", score: 1234 },
@@ -19,16 +17,14 @@
 		<h2>A bot programming game</h2>
 
 		<menu>
-			<ul>
-				<NavLink href="/matches"><Icon icon="tabler:video" /> Watch Games</NavLink>
-				<NavLink href="/docs"><Icon icon="tabler:book-2" /> How to play</NavLink>
-				{#if !isLoggedIn}
-					<NavLink href="/login"><Icon icon="tabler:login" /> Login / Sign up</NavLink>
-				{/if}
-				{#if isLoggedIn}
-					<NavLink href="/me"><Icon icon="tabler:user" /> Go to profile</NavLink>
-				{/if}
-			</ul>
+			<NavLink href="/matches"><Icon icon="tabler:video" /> Watch Games</NavLink>
+			<NavLink href="/docs"><Icon icon="tabler:book-2" /> How to play</NavLink>
+			{#if !$isLoggedIn}
+				<NavLink href="/login"><Icon icon="tabler:login" /> Login / Sign up</NavLink>
+			{/if}
+			{#if $isLoggedIn}
+				<NavLink href="/me"><Icon icon="tabler:user" /> Go to profile</NavLink>
+			{/if}
 		</menu>
 	</main>
 	<aside>
@@ -38,14 +34,15 @@
 				Leaderboard
 			</FancyHeader>
 		</a>
-    <ol class="leaderboard-list">
-      {#each leaders as leader, i}
-        <li>
-          <Icon icon={`tabler:hexagon-number-${i + 1}`} />
-          {leader.username} {leader.score}
-        </li>
-      {/each}
-    </ol>
+		<ol class="leaderboard-list">
+			{#each leaders as leader, i}
+				<li>
+					<Icon icon={`tabler:hexagon-number-${i + 1}`} />
+					{leader.username}
+					{leader.score}
+				</li>
+			{/each}
+		</ol>
 	</aside>
 </div>
 
@@ -62,19 +59,20 @@
 		max-width: 40vw;
 		text-align: center;
 		border: 1px solid gray;
-		padding: 2em 3em;
+		padding: 3em 3em 2em 3em;
+		position: relative;
 	}
 
-	main menu ul {
+	main menu {
 		padding: 0;
 		list-style: none;
 		margin-top: 2em;
 	}
 
-	main menu ul :global(li) {
+	main menu :global(li) {
 		margin-top: 0.5em;
 	}
-	main menu ul :global(li a:link) {
+	main menu :global(li a:link) {
 		width: 65%;
 	}
 
@@ -83,14 +81,15 @@
 		padding: 0.3em 1.5em 1em 0em;
 	}
 
-  aside a:link, aside a:visited {
-    text-decoration: none;
-    color: inherit;
-  }
+	aside a:link,
+	aside a:visited {
+		text-decoration: none;
+		color: inherit;
+	}
 
-  aside .leaderboard-list {
-    margin-top: 1em;
-    list-style: none;
-    padding-left: 1.5em;
-  }
+	aside .leaderboard-list {
+		margin-top: 1em;
+		list-style: none;
+		padding-left: 1.5em;
+	}
 </style>
