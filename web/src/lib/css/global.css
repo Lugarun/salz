@@ -1,3 +1,14 @@
 body {
   font-size: 24px;
 }
+
+a:link,
+a:visited {
+  color: darkgray;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover,
+a:focus {
+  color: black;
+}
