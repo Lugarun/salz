@@ -1,8 +1,10 @@
 <script lang="ts">
 	export let onClick: () => void;
+	export let type: 'button' | 'reset' | 'submit' = 'button';
+	export let isDisabled: boolean = false;
 </script>
 
-<button on:click={onClick}>
+<button {type} on:click={onClick} disabled={isDisabled}>
 	<slot></slot>
 </button>
 

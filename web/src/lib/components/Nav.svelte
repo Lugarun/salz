@@ -20,6 +20,7 @@
 		</ul>
 
 		<ul>
+      <NavLink href="/settings"><Icon icon="tabler:settings" /></NavLink>
 			{#if !$isLoggedIn}
 				<NavLink href="/login"><Icon icon="tabler:login" /></NavLink>
 			{/if}
