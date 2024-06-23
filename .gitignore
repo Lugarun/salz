@@ -1,4 +1,5 @@
 build
+.go/
 # Devenv
 .devenv*
 devenv.local.nix
