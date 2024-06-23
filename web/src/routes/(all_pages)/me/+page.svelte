@@ -144,7 +144,7 @@
 									<RoundInitial name={matchResult.bot2.owner?.username} />
 								</figure>
 							</div>
-							<a href={`/matches/${matchResult.id}`}><Icon icon="tabler:video" /></a>
+							<a href={`/matches?id=${matchResult.id}`}><Icon icon="tabler:video" /></a>
 						</article>
 					{/each}
 				</section>
