@@ -1,3 +1,7 @@
+:root {
+  --accent-color: #929bfc;
+}
+
 body {
   font-size: 24px;
 }

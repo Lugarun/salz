@@ -9,7 +9,7 @@
 <nav>
 	<div class="left">
 		<ul>
-			<NavLink href="/"><Logo /></NavLink>
+			<NavLink href="/" canBeActivated={false}><Logo /></NavLink>
 		</ul>
 	</div>
 	<div class="right">
@@ -20,7 +20,7 @@
 		</ul>
 
 		<ul>
-      <NavLink href="/settings"><Icon icon="tabler:settings" /></NavLink>
+			<NavLink href="/settings"><Icon icon="tabler:settings" /></NavLink>
 			{#if !$isLoggedIn}
 				<NavLink href="/login"><Icon icon="tabler:login" /></NavLink>
 			{/if}
@@ -38,6 +38,10 @@
 		padding: 1em 2em;
 		display: flex;
 		justify-content: space-between;
+	}
+
+	nav :global(.logo) {
+		width: 1.5rem;
 	}
 
 	nav .left,
